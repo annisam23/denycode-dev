@@ -1,5 +1,6 @@
 # HELLO I AM DENI IRAWAN NUGRAHA
 ## I AM FULLSTACK WEB DEVELOPER
+[![NPM version](https://img.shields.io/npm/v/github-contributors.svg?style=flat)](https://www.npmjs.com/package/github-contributors) [![NPM downloads](https://img.shields.io/npm/dm/github-contributors.svg?style=flat)](https://npmjs.org/package/github-contributors) [![Build Status](https://img.shields.io/travis/jonschlinkert/github-contributors.svg?style=flat)](https://travis-ci.org/jonschlinkert/github-contributors)
 
 ![Image Banner](https://d1nu36igcsxiys.cloudfront.net/images/img/webdeveloper_banner.jpg)
 
