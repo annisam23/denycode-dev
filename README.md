@@ -1,5 +1,4 @@
 <a href="https://github.com/deni-irawan40563?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-<a href="https://github.com/deni-irawan40563" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/deni-irawan40563/deni-irawan40563?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 <a href="https://github.com/deni-irawan40563/deni-irawan40563" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/deni-irawan40563/deni-irawan40563?label=profile%20updated&style=flat-square"></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=deni-irawan40563.deni-irawan40563)
 # HELLO I AM DENI IRAWAN NUGRAHA
