@@ -1,8 +1,20 @@
 # HELLO I AM DENI IRAWAN NUGRAHA
 ## I AM FULLSTACK WEB DEVELOPER
-[![NPM version](https://img.shields.io/npm/v/github-contributors.svg?style=flat)](https://www.npmjs.com/package/github-contributors) [![NPM downloads](https://img.shields.io/npm/dm/github-contributors.svg?style=flat)](https://npmjs.org/package/github-contributors) [![Build Status](https://img.shields.io/travis/jonschlinkert/github-contributors.svg?style=flat)](https://travis-ci.org/jonschlinkert/github-contributors)
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 ![Image Banner](https://d1nu36igcsxiys.cloudfront.net/images/img/webdeveloper_banner.jpg)
+<br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deniirawan99/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://denycode.xyz)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/deny.irn)
+<br>
 
 Currently focused on learning in JavaScript, but exposed in all aspects of web development including front and back end, version management with git. I do programming fulltime, I always keep to learn deep into the fundamentals of the languages and moving forward into web development with the latest technologies required to work with it.
 
@@ -14,5 +26,7 @@ Currently focused on learning in JavaScript, but exposed in all aspects of web d
 * [NODE.JS & EXPRESS.JS](https://nodejs.org/en/) - the amazing tool for backend building
 * [VUE.JS](https://vuejs.org/) - the amazing tool for frontend building
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=deni-irawan40563)
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="in_ID" data-type="horizontal" data-theme="light" data-vanity="denycode"><a class="LI-simple-link">
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=deni-irawan40563&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deni-irawan40563&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=deni-irawan40563.deni-irawan40563)
