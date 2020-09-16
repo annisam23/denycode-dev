@@ -1,3 +1,7 @@
+<a href="https://github.com/deni-irawan40563?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+<a href="https://github.com/deni-irawan40563" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/deni-irawan40563/deni-irawan40563?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+<a href="https://github.com/deni-irawan40563/deni-irawan40563" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/deni-irawan40563/deni-irawan40563?label=profile%20updated&style=flat-square"></a>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=deni-irawan40563.deni-irawan40563)
 # HELLO I AM DENI IRAWAN NUGRAHA
 ## I AM FULLSTACK WEB DEVELOPER
 
@@ -14,6 +18,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deniirawan99/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://denycode.xyz)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/deny.irn)
+<a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@deni-irawan40563-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+
 <br>
 
 Currently focused on learning in JavaScript, but exposed in all aspects of web development including front and back end, version management with git. I do programming fulltime, I always keep to learn deep into the fundamentals of the languages and moving forward into web development with the latest technologies required to work with it.
@@ -28,5 +34,3 @@ Currently focused on learning in JavaScript, but exposed in all aspects of web d
 
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=deni-irawan40563&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deni-irawan40563&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=deni-irawan40563.deni-irawan40563)
