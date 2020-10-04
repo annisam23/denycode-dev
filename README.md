@@ -30,5 +30,5 @@ Currently focused on learning in JavaScript, but exposed in all aspects of web d
 * [NODE.JS & EXPRESS.JS](https://nodejs.org/en/) - the amazing tool for backend building
 * [VUE.JS](https://vuejs.org/) - the amazing tool for frontend building
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=deni-irawan40563&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deni-irawan40563&hide=TeX&layout=compact)
+![Deni-Irawan40563 Github Stats](https://github-readme-stats.vercel.app/api?username=deni-irawan40563&count_private=true&show_icons=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deni-irawan40563)](https://github.com/deni-irawan40563/github-readme-stats)
